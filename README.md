@@ -16,7 +16,7 @@ Recreating the [Undertale Sans bossfight](https://github.thepinkhacker.com/ti-sa
 
 ## OG Xbox
 
-Working on getting (https://github.thepinkhacker.com/nxdk-rs)[Rust for the Xbox working].
+Working on getting [Rust for the Xbox working](https://github.thepinkhacker.com/nxdk-rs).
 
 ## Development Setup
 
