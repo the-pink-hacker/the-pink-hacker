@@ -12,7 +12,7 @@ Rebuilding my most popular resource pack that [revamps most block models](https:
 
 Created a really bad, unfinished, clone of [Space Invaders](https://github.thepinkhacker.com/ti-space-invaders).
 
-Recreating the [Undertale Sans bossfight](https://github.thepinkhacker.com/ti-sans-undertale).
+Created an unfinished clone of the [Undertale Sans bossfight](https://github.thepinkhacker.com/ti-sans-undertale).
 
 ## OG Xbox
 
